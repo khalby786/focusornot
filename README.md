@@ -6,7 +6,7 @@ Hotkey-based toggle for Active Window Tracking (also known as "X-Mouse" or "focu
 
 Currently tested and working on Windows 11.
 
-<video src="[path/to/video.mp4](https://recurse.zulipchat.com/user_uploads/13/wCcDmzGWGGD0Q8jMJjihGdm0/Zed_lTDPxUvw5D.mp4)" width="320" height="240" controls></video>
+<video src="https://recurse.zulipchat.com/user_uploads/13/wCcDmzGWGGD0Q8jMJjihGdm0/Zed_lTDPxUvw5D.mp4" width="320" height="240" controls></video>
 
 ## what
 
