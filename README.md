@@ -2,9 +2,19 @@
 
 <a href='http://www.recurse.com' title='Made with love at the Recurse Center'><img src='https://cloud.githubusercontent.com/assets/2883345/11325206/336ea5f4-9150-11e5-9e90-d86ad31993d8.png' height='20px'/></a>
 
-Hotkey-based toggle for Active Window Tracking (also known as "X-Mouse" or "focus follows mouse") on Windows. Runs a nice little program in the background that stays in your system tray and can even run on startup. Hotkey currently set to **Ctrl** + **Alt** + **X**, until I figure out how to change it.
+Hotkey-based toggle for Active Window Tracking (also known as "X-Mouse" or "focus follows mouse") on Windows. Runs a nice little program in the background that stays in your system tray and can even run on startup. Hotkey defaults to **Ctrl** + **Alt** + **X**.
 
 Currently tested and working on Windows 11.
+
+### config
+
+You can change your hotkeys in the config file located at `%APPDATA%\FocusOrNot\config.json`. 
+
+```json
+{
+  "hotkey": ["ctrl", "shift", "t"]
+}
+```
 
 <video src="https://recurse.zulipchat.com/user_uploads/13/wCcDmzGWGGD0Q8jMJjihGdm0/Zed_lTDPxUvw5D.mp4" width="320" height="240" controls></video>
 
