@@ -40,7 +40,7 @@ When you toggle the "Run at startup" option, the app interacts with the Windows 
 
 - [X] Systray icons
 - [X] Systray menu
-- [ ] Option to change hotkey
+- [X] Option to change hotkey
 - [ ] Executable icon
 - [ ] Cross-platform??
 
